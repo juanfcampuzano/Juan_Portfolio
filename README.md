@@ -7,4 +7,4 @@ All of these projects are in Python.
 - Preprocessed the images using normalization and binning techniques. 
 - Optimized a Convolutional Neural Network to reach the highest accuracy.
 - Performed error analysis to make decisions to improve model performance.
-- Built a client facing API using Django.
+- Built a user facing API using Django.
