@@ -8,4 +8,5 @@ All of these projects are in Python.
 - Optimized a Convolutional Neural Network to reach the highest accuracy.
 - Performed error analysis to make decisions to improve model performance.
 - Built a user facing API using Django.
-  ![](/images/matrix_mnist.png)
+
+![](/images/matrix_mnist.png)
